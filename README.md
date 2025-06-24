@@ -7,9 +7,6 @@ The CBIT Open Source Community (COSC) Commit Counter is a simple web tool to sim
 - **Decrement**: Simulates reverting a commit (count does not go below 0).
 - **Reset**: Resets the counter to 0 (e.g., at the end of the day).
 
-## 💻 Demo
-👉 [Live Demo (GitHub Pages link)](https://YOUR_USERNAME.github.io/COSC-Commit-Counter/)
-
 ## 📂 Files
 - `index.html` — Structure of the counter
 - `style.css` — Styling for layout and buttons
